@@ -8,6 +8,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 First in the cmd window type: npx create-react-app WeahtherApp. 
 
 WeahtherApp folder is created.
+
 Next type: cd WeatherApp. 
+
 Then open the WeatherApp folder in Visual Studio Code.
+
 Start the project with：yarn start or npm start.
