@@ -1,6 +1,10 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+First in the cmd window type: npx create-react-app WeahtherApp.
+WeahtherApp folder is created.
+Next type: cd WeatherApp. 
+Then open the WeatherApp folder in Visual Studio Code.
 
 ## Available Scripts
 
