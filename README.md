@@ -2,11 +2,11 @@ In this project, I create a weather web app using Open Weather Map API. Simply t
 #React JS   #Open Weather Map API
 
 
-# Getting Started with Create React App
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 First in the cmd window type: npx create-react-app WeahtherApp.
 WeahtherApp folder is created.
 Next type: cd WeatherApp. 
 Then open the WeatherApp folder in Visual Studio Code.
-Start the project with： yarn start or npm start
+Start the project with：yarn start or npm start.
